@@ -2,6 +2,8 @@
 ログイン機能付きの掲示板
 
 設計書
+コーディング規約
+https://google.github.io/styleguide/htmlcssguide.html
 
 １．ログイン機能をつける
 
